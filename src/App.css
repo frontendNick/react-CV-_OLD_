@@ -1,0 +1,25 @@
+.App {
+    height: 100vh;
+}
+
+
+
+.nav-link.active {
+    background-color: lightgrey;
+}
+
+.nav-link.active b {
+    color: crimson;
+}
+
+li .nav-link:hover b{
+    color: crimson;
+}
+
+nav {
+    font-size: 22px;
+}
+
+nav li {
+    margin-right: 10px;
+}
